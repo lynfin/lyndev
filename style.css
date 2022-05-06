@@ -36,6 +36,10 @@ nav ul li a{
     position: relative;
     padding: 5px 0;
 }
+
+/*  The following sets up the red line that appears 
+    under each nav item when you hover on it.  
+*/
 nav ul li a:hover{
     color: #fd4766;
 }
@@ -55,33 +59,14 @@ nav ul li a:hover:after{
 
 div.content ul li{
     list-style: none;
-    /*padding: 10px 10px; */
 }
 
-.btn{
-    color: #fff;
-    font-size: 16px;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    padding: 16px 40px;
-    border-radius: 500px;
-    display: inline-block;
-    font-weight: 500;
-    transition: all .4s ease-in-out;
-    background-size: 152% 100%;
-    background: #fd4766;
-    border: 2px solid #fd4766;
-}
-.btn:hover{
-    background: transparent;
-    border-color: #fd4766;
-    color: #fd4766;
-}
 .content{
     position: absolute;
     top: 35%;
     left: 8%;
 }
+/* This creates text with gradient color */
 .content .title{
     color: #1f1f25;
     font-size: 15px;
@@ -101,6 +86,16 @@ div.content ul li{
     text-transform: inherit;
     width: 70%;
 }
+
+.content h2{
+    color: #1f1f25;
+    font-size: 55px;
+    font-weight: 900;
+    line-height: 70px;
+    text-transform: inherit;
+    width: 70%;
+}
+
 .content h1 span{
     color: #fd4766;
 }

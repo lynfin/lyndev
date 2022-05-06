@@ -17,4 +17,6 @@ window.onload = function() {
         logoElement.setAttribute('src',logoOnMouseOut);
         //alert('mouseout detected');
     });
+
+    const hero = document.getElementsByClassName("hero")[0];
 }

@@ -56,6 +56,12 @@ nav ul li a:after{
 nav ul li a:hover:after{
     width: 100%;
 }
+
+div.content ul li{
+    list-style: none;
+    /*padding: 10px 10px; */
+}
+
 .btn{
     color: #fff;
     font-size: 16px;

@@ -1,0 +1,13 @@
+# Ignore img files we don't need right now
+img/FinDev-logos.jpeg
+img/FinDev-logos_black.png
+img/FinDev-logos_white.png
+img/beachBirds.jpg
+img/bg1.jpg
+img/cliffRight.jpg
+img/lakeMorning.jpg
+img/logo_info.txt
+
+
+# Ignore all Zone.Identifier files
+img/*Zone.Identifier

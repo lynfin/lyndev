@@ -102,6 +102,10 @@ nav ul li a:hover:after{
 .content h1 span{
     color: #fd4766;
 }
+
+.content p span{
+    color: #1f1f25;
+}
 .content p{
     width: 55%;
     color: #757575;

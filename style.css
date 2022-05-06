@@ -8,10 +8,6 @@
 a{
     text-decoration: none;
 }
-/* background: url(img/bg1.jpg); 
-   background-color: #4CD4CB;
-
-*/
 .hero{
     width: 100%;
     height: 100vh;
@@ -28,7 +24,7 @@ nav{
     padding: 30px 100px;
 }
 .logo{
-    max-height: 160px;
+    max-height: 140px;
 }
 nav ul li{
     list-style: none;
